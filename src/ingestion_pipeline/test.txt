@@ -1,0 +1,13 @@
+<div class="tagArea">
+					
+					<span class="tags">
+						<img src="https://www.kapruka.com/static/image/tags_img.svg" style="width: 15px;margin-right: 15px !important; margin-top: -2px !important;" alt="tags">Delivery within 24 hours</span>
+					
+					<span class="tags">
+						<img src="https://www.kapruka.com/static/image/tags_img.svg" style="width: 15px;margin-right: 15px !important; margin-top: -2px !important;" alt="tags">Low cost islandwide delivery</span>
+					
+					<span class="tags">
+						<img src="https://www.kapruka.com/static/image/tags_img.svg" style="width: 15px;margin-right: 15px !important; margin-top: -2px !important;" alt="tags">In Stock</span>
+					
+
+				</div>
